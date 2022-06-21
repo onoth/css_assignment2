@@ -1,0 +1,26 @@
+div.box {
+    margin: 12px auto;
+    border-width: 2px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-color: #000;
+    height: 300px;
+    width: 450px;
+    border-style: groove;
+    background-color: #fff;
+
+}
+
+div.small_box {
+    margin: -317px auto;
+    /* margin-right: px; */
+    border-width: 2px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-color: #000;
+    border-style: groove;
+    background-color: darkcyan;
+    width: 450px;
+    height: 50px;
+
+}
